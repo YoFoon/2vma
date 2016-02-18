@@ -28,7 +28,7 @@
 
         echo "<a class='gitght' target='_blank' title='github' href='https://github.com/YoFoon'></a>";
         echo "<a class='weibo' target='_blank' title='weibo' href='http://weibo.com/2048202647/profile?rightmod=1&wvr=6&mod=personinfo'></a>";
-        echo "<a class='blog' target='_blank' title='blog' href='http://yofoon.github.io/blog/'></a>";
+        echo "<a class='blog' target='_blank' title='blog' href='http://blog.yofoon.com/'></a>";
 
     echo "</div>";
 
